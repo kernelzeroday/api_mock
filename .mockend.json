@@ -1,7 +1,7 @@
 {
  "GetDomainAuditToken": {
  "token": "string",
- "createdAt": "date",
+ "createdAt": "date"
  },
  "VerifyDomainTokenIsPublished": {
  "published": "boolean",
